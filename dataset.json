@@ -1,0 +1,122 @@
+[
+  {
+    "Question": "What is agriculture?",
+    "Answer": "Agriculture is the practice of cultivating soil, growing crops, raising animals, and producing food, fiber, and other useful products."
+  },
+  {
+    "Question": "What are the main types of agriculture?",
+    "Answer": "The main types include subsistence agriculture, commercial agriculture, intensive agriculture, extensive agriculture, organic agriculture, and livestock farming."
+  },
+  {
+    "Question": "Why is irrigation important in agriculture?",
+    "Answer": "Irrigation supplies water to crops when rainfall is insufficient. It helps maintain plant growth, improve yields, and reduce the risk of drought-related crop losses."
+  },
+  {
+    "Question": "What is drip irrigation?",
+    "Answer": "Drip irrigation delivers water slowly and directly to the root zone through tubes and emitters. It can reduce evaporation and water waste compared with less targeted irrigation methods."
+  },
+  {
+    "Question": "What is organic farming?",
+    "Answer": "Organic farming is an agricultural system that relies on practices such as crop rotation, composting, and biological pest control while following applicable organic certification standards."
+  },
+  {
+    "Question": "What is crop rotation?",
+    "Answer": "Crop rotation is the practice of growing different crop species in the same field in successive seasons. It can improve soil health, interrupt pest cycles, and reduce certain plant diseases."
+  },
+  {
+    "Question": "Why is soil important for plants?",
+    "Answer": "Soil anchors plant roots and supplies water, air, and essential nutrients. Its structure, organic matter, pH, and biological activity strongly influence plant growth."
+  },
+  {
+    "Question": "What are the essential nutrients for plants?",
+    "Answer": "Plants require macronutrients such as nitrogen, phosphorus, and potassium, along with secondary nutrients and micronutrients such as calcium, magnesium, sulfur, iron, and zinc."
+  },
+  {
+    "Question": "What does nitrogen do for crops?",
+    "Answer": "Nitrogen supports chlorophyll production, protein synthesis, and vegetative growth. Too little nitrogen can cause pale leaves and poor growth, while excessive nitrogen can damage crops and pollute water."
+  },
+  {
+    "Question": "What is compost?",
+    "Answer": "Compost is decomposed organic material, such as plant residues and food scraps. It can improve soil structure, water retention, and nutrient availability."
+  },
+  {
+    "Question": "How can farmers control agricultural pests?",
+    "Answer": "Farmers can use integrated pest management, which combines monitoring, crop rotation, resistant varieties, biological controls, physical barriers, and carefully selected pesticides when necessary."
+  },
+  {
+    "Question": "What is integrated pest management?",
+    "Answer": "Integrated pest management is an approach that monitors pest populations and combines compatible control methods to keep damage at acceptable levels while minimizing risks to people and the environment."
+  },
+  {
+    "Question": "What causes plant diseases?",
+    "Answer": "Plant diseases can be caused by fungi, bacteria, viruses, nematodes, and unfavorable environmental conditions. Identification of the cause is important for choosing an effective control method."
+  },
+  {
+    "Question": "How can farmers prevent soil erosion?",
+    "Answer": "Farmers can reduce soil erosion using cover crops, contour farming, terraces, windbreaks, reduced tillage, and maintaining vegetation on vulnerable slopes."
+  },
+  {
+    "Question": "What is sustainable agriculture?",
+    "Answer": "Sustainable agriculture aims to produce food while protecting soil, water, biodiversity, and long-term farm productivity, while remaining economically and socially viable."
+  },
+  {
+    "Question": "What is precision agriculture?",
+    "Answer": "Precision agriculture uses technologies such as GPS, sensors, satellite imagery, drones, and data analysis to manage fields according to variations in soil, water, and crop conditions."
+  },
+  {
+    "Question": "How do sensors help farmers?",
+    "Answer": "Sensors can measure soil moisture, temperature, humidity, light, and other variables. Farmers use these measurements to improve irrigation scheduling, detect environmental stress, and manage resources."
+  },
+  {
+    "Question": "What is hydroponics?",
+    "Answer": "Hydroponics is a method of growing plants without soil by supplying roots with a nutrient solution, sometimes using an inert growing medium. Water chemistry and nutrient balance must be managed carefully."
+  },
+  {
+    "Question": "What is greenhouse farming?",
+    "Answer": "Greenhouse farming grows crops inside a protected structure where temperature, humidity, ventilation, and sometimes light can be managed to improve growing conditions."
+  },
+  {
+    "Question": "What is the best time to water crops?",
+    "Answer": "Early morning is often a good time to irrigate because evaporation may be lower. The ideal schedule depends on crop species, soil, weather, irrigation method, and the crop's growth stage."
+  },
+  {
+    "Question": "How does drought affect agriculture?",
+    "Answer": "Drought reduces available water for crops and livestock. It can slow plant growth, reduce yields, degrade soil, increase irrigation costs, and threaten farm income."
+  },
+  {
+    "Question": "How does climate change affect farming?",
+    "Answer": "Climate change can alter rainfall patterns, increase heat stress, intensify droughts and floods, and shift pest and disease ranges. Adaptation can include improved irrigation, resilient crop varieties, and diversified cropping systems."
+  },
+  {
+    "Question": "What is the role of bees in agriculture?",
+    "Answer": "Bees pollinate many crops, helping plants produce fruits and seeds. Protecting pollinators through suitable habitats and careful pesticide management can support agricultural productivity."
+  },
+  {
+    "Question": "What is the difference between fertilizer and manure?",
+    "Answer": "Fertilizers provide plant nutrients in manufactured or naturally derived forms. Manure is animal waste that can supply nutrients and organic matter, but its composition varies and it must be managed safely."
+  },
+  {
+    "Question": "How can farmers improve crop yield?",
+    "Answer": "Farmers can improve yields by selecting suitable varieties, maintaining soil fertility, managing irrigation, controlling weeds and pests, planting at appropriate times, and monitoring crop health."
+  },
+  {
+    "Question": "What is seed germination?",
+    "Answer": "Seed germination is the process in which a viable seed begins to grow into a seedling when conditions such as moisture, temperature, oxygen, and sometimes light are suitable."
+  },
+  {
+    "Question": "What is the importance of agricultural biodiversity?",
+    "Answer": "Agricultural biodiversity includes crop varieties, livestock breeds, beneficial insects, soil organisms, and other living resources. It can improve resilience to pests, diseases, and environmental changes."
+  },
+  {
+    "Question": "How should farmers store harvested grain?",
+    "Answer": "Grain should be dried to a safe moisture level appropriate for the grain and storage conditions, then kept in clean, dry, pest-resistant storage with suitable ventilation and regular inspection."
+  },
+  {
+    "Question": "What are the main challenges facing Tunisian agriculture?",
+    "Answer": "Important challenges include water scarcity, drought, soil degradation, rising input costs, variable rainfall, and market access. Appropriate responses depend on the region, crop, farm size, and available resources."
+  },
+  {
+    "Question": "How can farmers save water in Tunisia?",
+    "Answer": "Farmers can improve water efficiency through well-maintained drip irrigation, irrigation scheduling based on crop needs and soil moisture, leak detection, mulching where appropriate, and selecting crops suited to local water availability."
+  }
+]

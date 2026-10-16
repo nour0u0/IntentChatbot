@@ -1,0 +1,122 @@
+[
+    {
+        "QuestionId": 1,
+        "Text": "hi how are you"
+    },
+    {
+        "QuestionId": 2,
+        "Text": "What are the main types of agriculture?"
+    },
+    {
+        "QuestionId": 3,
+        "Text": "Why is irrigation important in agriculture?"
+    },
+    {
+        "QuestionId": 4,
+        "Text": "What is drip irrigation?"
+    },
+    {
+        "QuestionId": 5,
+        "Text": "What is organic farming?"
+    },
+    {
+        "QuestionId": 6,
+        "Text": "What is crop rotation?"
+    },
+    {
+        "QuestionId": 7,
+        "Text": "Why is soil important for plants?"
+    },
+    {
+        "QuestionId": 8,
+        "Text": "What are the essential nutrients for plants?"
+    },
+    {
+        "QuestionId": 9,
+        "Text": "What does nitrogen do for crops?"
+    },
+    {
+        "QuestionId": 10,
+        "Text": "What is compost?"
+    },
+    {
+        "QuestionId": 11,
+        "Text": "How can farmers control agricultural pests?"
+    },
+    {
+        "QuestionId": 12,
+        "Text": "What is integrated pest management?"
+    },
+    {
+        "QuestionId": 13,
+        "Text": "What causes plant diseases?"
+    },
+    {
+        "QuestionId": 14,
+        "Text": "How can farmers prevent soil erosion?"
+    },
+    {
+        "QuestionId": 15,
+        "Text": "What is sustainable agriculture?"
+    },
+    {
+        "QuestionId": 16,
+        "Text": "What is precision agriculture?"
+    },
+    {
+        "QuestionId": 17,
+        "Text": "How do sensors help farmers?"
+    },
+    {
+        "QuestionId": 18,
+        "Text": "What is hydroponics?"
+    },
+    {
+        "QuestionId": 19,
+        "Text": "What is greenhouse farming?"
+    },
+    {
+        "QuestionId": 20,
+        "Text": "What is the best time to water crops?"
+    },
+    {
+        "QuestionId": 21,
+        "Text": "How does drought affect agriculture?"
+    },
+    {
+        "QuestionId": 22,
+        "Text": "How does climate change affect farming?"
+    },
+    {
+        "QuestionId": 23,
+        "Text": "What is the role of bees in agriculture?"
+    },
+    {
+        "QuestionId": 24,
+        "Text": "What is the difference between fertilizer and manure?"
+    },
+    {
+        "QuestionId": 25,
+        "Text": "How can farmers improve crop yield?"
+    },
+    {
+        "QuestionId": 26,
+        "Text": "What is seed germination?"
+    },
+    {
+        "QuestionId": 27,
+        "Text": "What is the importance of agricultural biodiversity?"
+    },
+    {
+        "QuestionId": 28,
+        "Text": "How should farmers store harvested grain?"
+    },
+    {
+        "QuestionId": 29,
+        "Text": "What are the main challenges facing Tunisian agriculture?"
+    },
+    {
+        "QuestionId": 30,
+        "Text": "How can farmers save water in Tunisia?"
+    }
+]

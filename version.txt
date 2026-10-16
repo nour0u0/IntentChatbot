@@ -1,0 +1,4 @@
+python --version
+Python 3.10.0
+chatbot --version
+1.0
