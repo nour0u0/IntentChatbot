@@ -30,7 +30,6 @@ Unlike generative chatbots, this project retrieves existing answers instead of g
 ```text
 ChatBot/
 ├── main.py
-├── ModelDownloader.py
 ├── requirements.txt
 ├── DB/
 │   ├── Question.json
@@ -42,7 +41,8 @@ ChatBot/
 │   └── AnswerEmbed.py
 ├── Service/
 │   ├── ChatService.py
-│   └── RegisterService.py
+│   ├── ModelDownloader.py
+│   └── RegisterService.py   
 └── View/
     ├── MainView.py
     ├── ChatView.py
