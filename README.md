@@ -243,20 +243,7 @@ Browse existing entries, edit their questions or answers, refresh the table, and
 - JSON files are simple and portable but do not provide database transactions or concurrent-write protection.
 - Running model inference synchronously in the GUI thread can temporarily freeze the interface during slow operations.
 
-## Suggested `.gitignore`
 
-```gitignore
-__pycache__/
-*.py[cod]
-.venv/
-venv/
-.env
-
-# Downloaded model files
-models/all-MiniLM-L6-v2/
-```
-
-Keep the JSON files in version control if they are intended to be part of the distributed starter knowledge base. If they contain private or user-specific data, exclude them and provide clean sample files instead.
 
 icone from Flaticon
 link:https://www.flaticon.com/free-icons/robot
