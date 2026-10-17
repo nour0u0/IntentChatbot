@@ -248,9 +248,5 @@ Browse existing entries, edit their questions or answers, refresh the table, and
 icone from Flaticon
 link:https://www.flaticon.com/free-icons/robot
 
-## License
-
-Add a license for this project's original code if you intend to distribute it. Review the licenses and terms of the Sentence Transformers model and its dependencies separately.
-
 
 
